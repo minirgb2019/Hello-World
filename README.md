@@ -12,5 +12,12 @@ I ran the server first. I typed java server.java. After it, I typed java client.
 
 <img width="1189" alt="image" src="https://user-images.githubusercontent.com/51940857/65553166-3a1ee300-def4-11e9-8b7e-914185f32767.png">
 
+
+After the codes were worked on commands, I built a project called QHello in Clipse eidtor. I created a client and server class and copied codes from the folder test1 inot classes. I tested them by runing the server class first, then ran the server class.
+
+Client side:
+
 <img width="927" alt="image" src="https://user-images.githubusercontent.com/51940857/65553583-2f188280-def5-11e9-8b04-04d0c4f1d82e.png">
 
+Server side:
+<img width="948" alt="image" src="https://user-images.githubusercontent.com/51940857/65553654-5a02d680-def5-11e9-84f0-c926c89d8756.png">
