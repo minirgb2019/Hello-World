@@ -10,3 +10,4 @@ I typed Javac and the client side file name called client.java, then I typed Jav
 The files in my folder including client.txt and server.txt, after I ran javac client, and client.txt would change into client.class and client.java. I ran javac server, and server.txt would change into server.class and server.java.
 I ran the server first. I typed java server.java. After it, I typed java client.java and ran it. I could see "client connected" on the screen.
 
+<img width="1189" alt="image" src="https://user-images.githubusercontent.com/51940857/65553166-3a1ee300-def4-11e9-8b7e-914185f32767.png">
