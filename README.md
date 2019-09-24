@@ -1,11 +1,11 @@
 # Hello-World
-##Overview
+**Overview**
 This project creates communication between a client and a server through TCP, which can respond to a requests including numbers or a string.
 
 To make this project work, I installed JDk and Eclipes editor.
 
 
-Test
+**Test**
 
 
 I used a client side and a server side command to test the codes, so I switched. 
