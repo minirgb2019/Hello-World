@@ -11,3 +11,6 @@ The files in my folder including client.txt and server.txt, after I ran javac cl
 I ran the server first. I typed java server.java. After it, I typed java client.java and ran it. I could see "client connected" on the screen.
 
 <img width="1189" alt="image" src="https://user-images.githubusercontent.com/51940857/65553166-3a1ee300-def4-11e9-8b7e-914185f32767.png">
+
+<img width="927" alt="image" src="https://user-images.githubusercontent.com/51940857/65553583-2f188280-def5-11e9-8b04-04d0c4f1d82e.png">
+
