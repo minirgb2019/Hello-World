@@ -9,7 +9,7 @@ public class Client{
 
 		//one way communication
 		PrintWriter pr=new PrintWriter(s.getOutputStream());
-		pr.println("hello");//before is "hello"
+		pr.println("hello");
 		pr.flush();
 
 		//Two way communication (client to server/server to client)
