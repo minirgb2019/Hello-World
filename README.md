@@ -1,7 +1,13 @@
 # Hello-World
 Overview
 This project creates communication between a client and a server through TCP, which can respond to a requests including numbers or a string.
+
+To make this project work, I installed JDk and Eclipes editor.
+
+
 Test
+
+
 I used a client side and a server side command to test the codes, so I switched. 
 For Qhello project, I need to change directory to Documents/test1, which I saved my java codes, or the screen showed error:file not found: client.java.
 
