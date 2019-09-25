@@ -23,7 +23,9 @@ I ran the server first. I typed java server.java. After it, I typed java client.
 <img width="1189" alt="image" src="https://user-images.githubusercontent.com/51940857/65553166-3a1ee300-def4-11e9-8b7e-914185f32767.png">
 
 
-After the codes were worked on commands, I built a project called QHello in Clipse eidtor. I created a client and server class and copied codes from the folder test1 inot classes. I tested them by runing the server class first, then ran the server class.
+After the codes can be worked on commands, I built a project called QHello in Clipse eidtor. I created a client and server class and copied codes from the folder test1 inot classes. I tested them by runing the server class first, then ran the server class.
+
+I imported .net, .io library.
 
 - Client side:
 
